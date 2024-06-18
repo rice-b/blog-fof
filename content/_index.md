@@ -10,20 +10,21 @@ design:
 sections:
   - block: hero
     content:
-      title: Write Docs Fast, Focus on Your Content
-      text: The easy, no-code technical documentation solution your users will love 🎉
+      title: Welcome to our blog
+      text: The recipes, restaurants, and tipples you will love 🎉
       primary_action:
-        text: Get Started
+        text: Recipes
         url: https://hugoblox.com/templates/details/docs/
-        icon: rocket-launch
+        icon: book-open
       secondary_action:
-        text: Read the docs
+        text: RecipesX
         url: /docs/
-      announcement:
-        text: "Announcing the release of version 2."
-        link:
-          text: "Read more"
-          url: "/blog/"
+        icon: newspaper
+#      announcement:
+#        text: "Announcing the release of version 2."
+#        link:
+#          text: "Read more"
+#          url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
