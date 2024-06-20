@@ -12,7 +12,7 @@ sections:
   - block: hero
     content:
       title: Feast of Flavours
-      text: Recipes, restaurants, & drinks you will ❤️🍴🍹🎉
+      text: Cook & Dine with Us ❤️🍴🍹🎉
       primary_action:
         text: Our Recipes
         url: /recipes/
