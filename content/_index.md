@@ -40,25 +40,25 @@ sections:
           filename: ""
           filters:
             brightness: 0.5
-  # - block: stats
-  #   content:
-  #     items:
-  #       - statistic: "1"
-  #         description: |
-  #           Recipes
-  #       - statistic: "2"
-  #         description: |
-  #           Restaurants
-  #       - statistic: "0"
-  #         description: |
-  #           Cocktails
-  #   design:
-  #     # Section background color (CSS class)
-  #     css_class: "bg-gray-100 dark:bg-gray-800"
-  #     # Reduce spacing
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
-
+  - block: stats
+    content:
+      items:
+        - statistic: "1"
+          description: |
+            Recipes
+        - statistic: "2"
+          description: |
+            Restaurants
+        - statistic: "0"
+          description: |
+            Cocktails
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-800"
+      # Reduce spacing
+      spacing:
+        padding: [0.1, 0.1, 0.1, 0.1]
+        
   # - block: features
   #   id: features
   #   content:
