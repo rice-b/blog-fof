@@ -1,7 +1,7 @@
 ---
 title: OSIP
-summary: TEXT
-date: 2024-01-01
+summary: OSIP, a celebrated farm-to-table restaurant, offers exquisite, locally-sourced dishes and has earned a Michelin star for its culinary excellence.
+date: 2021-07-01
 authors:
   - Anna
   - Brendan

@@ -48,8 +48,8 @@ sections:
             Recipes
         - statistic: "2"
           description: |
-            Restaurants since 2024
-        - statistic: "3"
+            Restaurants
+        - statistic: "0"
           description: |
             Cocktails
     design:

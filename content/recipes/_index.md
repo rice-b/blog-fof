@@ -3,7 +3,7 @@ title: Recipes
 description: "X"
 type: docs
 breadcrumbs: true
-toc: false
+toc: true
 linkTitle: Recipes
 sidebar:
   open: true
@@ -20,24 +20,15 @@ url: /recipes/
 
 ### Starters
 
-[Configure your site name, description, and menu.](https://docs.hugoblox.com/tutorial/blog/)
-[HELP subsubtext](../restaurants/gymkhana/)
-
 ### Mains
-
-[Edit the homepage and add your documentation pages.](https://docs.hugoblox.com/tutorial/blog/)
-
+[Cauliflower Steak & Chimichurri](../recipes/01)
 ### Desserts
-
-[Easily publish your site for free with GitHub Pages](https://docs.hugoblox.com/tutorial/blog/)
 
 {{% /steps %}}
 
-## Next
-
-Let's customize your new site:
+## Next:
+### Read about our restaurant blog posts.
 
 {{< cards >}}
-  {{< card url="../guide/project-structure" title="Project Structure" icon="document-duplicate" >}}
-  {{< card url="../guide/configuration" title="Configuration" icon="adjustments-vertical" >}}
+  {{< card url="../restaurants" title="Restaurants blog" icon="calendar" >}}
 {{< /cards >}}
