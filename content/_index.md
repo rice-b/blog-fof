@@ -6,13 +6,13 @@ toc: true
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "1 rem"
 
 sections:
   - block: hero
     content:
       title: Feast of Flavours
-      text: Recipes, restaurants, & drinks you will love 🎉
+      text: Recipes, restaurants, & drinks you will ❤️🍴🍹🎉
       primary_action:
         text: Our Recipes
         url: /recipes/
@@ -29,6 +29,7 @@ sections:
 #          url: "/blog/"
     design:
       spacing:
+        spacing: "1rem"
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
