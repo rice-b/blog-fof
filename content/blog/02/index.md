@@ -8,7 +8,7 @@ authors:
 
 tags:
   - Restaurant
-  - Michelin Star
+  - Michelin Star ⭐
   - English
 image:
   caption: 'Image credit: Osip'

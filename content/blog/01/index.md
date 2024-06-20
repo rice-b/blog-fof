@@ -7,7 +7,7 @@ authors:
   - Brendan
 tags:
   - Restaurant
-  - Michelin Star
+  - Michelin Star ⭐⭐
   - Indian
 image:
   caption: 'Image credit: Gymkhana'
