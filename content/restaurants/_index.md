@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Restaurants
 view: date-title-summary
-url: /blog/
+url: /restaurants/
 ---

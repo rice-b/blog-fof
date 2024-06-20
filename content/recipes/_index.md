@@ -7,16 +7,37 @@ toc: false
 linkTitle: Recipes
 sidebar:
   open: true
+url: /recipes/
 ---
 
-👋 Welcome to the demo of the Hugo Blox Documentation template!
+👋 Search through our favourite recipes or browse by meal!
 
-<!--more-->
+## Recipes by meal
 
-This site is a demo of the Hugo Blox Documentation theme. For the full documentation on how to use this template, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+{{% steps %}}
+
+### Aperitifs & Cocktails
+
+### Starters
+
+[Configure your site name, description, and menu.](https://docs.hugoblox.com/tutorial/blog/)
+[HELP subsubtext](../restaurants/gymkhana/)
+
+### Mains
+
+[Edit the homepage and add your documentation pages.](https://docs.hugoblox.com/tutorial/blog/)
+
+### Desserts
+
+[Easily publish your site for free with GitHub Pages](https://docs.hugoblox.com/tutorial/blog/)
+
+{{% /steps %}}
 
 ## Next
 
+Let's customize your new site:
+
 {{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Create your docs in just 5 minutes!" >}}
+  {{< card url="../guide/project-structure" title="Project Structure" icon="document-duplicate" >}}
+  {{< card url="../guide/configuration" title="Configuration" icon="adjustments-vertical" >}}
 {{< /cards >}}

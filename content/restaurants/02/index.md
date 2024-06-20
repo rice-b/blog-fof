@@ -1,6 +1,6 @@
 ---
 title: OSIP
-summary: Hugo v2.0.0 released. Download now and follow the guide to get started in 5 minutes!
+summary: TEXT
 date: 2024-01-01
 authors:
   - Anna
@@ -12,6 +12,7 @@ tags:
   - English
 image:
   caption: 'Image credit: Osip'
+url: /restaurants/osip
 ---
 
 ## Heading

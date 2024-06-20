@@ -11,6 +11,7 @@ tags:
   - Indian
 image:
   caption: 'Image credit: Gymkhana'
+url: /restaurants/gymkhana
 ---
 
 ## Heading
