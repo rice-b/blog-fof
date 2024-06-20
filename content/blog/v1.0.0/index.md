@@ -1,16 +1,19 @@
 ---
-title: v1.0.0 Released!
-summary: Hugo v1.0.0 released. Download now and follow the guide to get started in 5 minutes!
-date: 2023-01-01
+title: Gymkhana restaurant 
+summary: Gymkhana, inspired by the elite clubs of colonial India.
+date: 2024-07-01
 authors:
-  - admin
+  - Brendan
+  - Anna
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Restaurant
+  - Indian
+  - Michelin Star ⭐⭐
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: Gymkhana'
 ---
+
+https://gymkhanalondon.com/
 
 Hugo v1.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.
 

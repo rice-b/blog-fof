@@ -14,7 +14,7 @@ sections:
       text: Recipes, restaurants, & drinks you will love 🎉
       primary_action:
         text: Our Recipes
-        url: https://hugoblox.com/templates/details/docs/
+        url: /recipes/
         icon: book-open
       secondary_action:
         text: Restaurant blogs
