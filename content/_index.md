@@ -18,7 +18,7 @@ sections:
         icon: book-open
       secondary_action:
         text: Restaurant blogs
-        url: /docs/
+        url: /restaurants/
         icon: food
 
 #      announcement:
