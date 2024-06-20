@@ -1,21 +1,19 @@
 ---
-title: Gymkhana restaurant 
-summary: Gymkhana, inspired by the elite clubs of colonial India.
-date: 2024-07-01
+title: Gymkhana
+summary: Gymkhana, inspired by colonial India's elite clubs, offers award-winning Northern Indian cuisine with two Michelin stars.
+date: 2024-04-19
 authors:
-  - Brendan
   - Anna
+  - Brendan
 tags:
   - Restaurant
+  - Michelin Star
   - Indian
-  - Michelin Star ⭐⭐
 image:
   caption: 'Image credit: Gymkhana'
 ---
 
-https://gymkhanalondon.com/
-
-Hugo v1.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.
+Hugo v2.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.
 
 Highlights include:
 
