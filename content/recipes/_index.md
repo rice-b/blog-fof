@@ -2,6 +2,7 @@
 title: Recipes
 description: "Docs websites powered by Hugo Blox."
 type: docs
+breadcrumbs: false
 toc: true
 linkTitle: Documentation
 sidebar:
