@@ -1,10 +1,10 @@
 ---
 title: Recipes
-description: "Docs websites powered by Hugo Blox."
+description: "X"
 type: docs
-breadcrumbs: false
-toc: true
-linkTitle: Documentation
+breadcrumbs: true
+toc: false
+linkTitle: Recipes
 sidebar:
   open: true
 ---

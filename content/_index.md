@@ -1,7 +1,8 @@
 ---
 title: 'Home'
-date: 2023-10-24
+# date: 2023-10-24
 type: landing
+toc: true
 
 design:
   # Default section spacing
@@ -56,7 +57,7 @@ sections:
       css_class: "bg-gray-100 dark:bg-gray-800"
       # Reduce spacing
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
+        padding: [0, 0, 0, 0]
   # - block: features
   #   id: features
   #   content:
