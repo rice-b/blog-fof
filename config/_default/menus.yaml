@@ -5,10 +5,10 @@ main:
   - name: Home 🏡
     url: /
     weight: 10
-  - name: Recipes
+  - name: Recipes 🧑‍🍳
     url: recipes/
     weight: 20
-  - name: Restaurants
+  - name: Restaurants 🍽️
     url: restaurants/
     weight: 30
   # - name: Showcase
