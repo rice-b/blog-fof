@@ -1,15 +1,17 @@
 ---
-title: v2.0.0 Released!
+title: OSIP
 summary: Hugo v2.0.0 released. Download now and follow the guide to get started in 5 minutes!
-date: 2024-01-19
+date: 2024-01-01
 authors:
-  - admin
+  - Anna
+  - Brendan
+
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Restaurant
+  - Michelin Star
+  - English
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: Osip'
 ---
 
 Hugo v2.0.0 is now available! This release includes new experimental features to try out, improvements to accessibility, the ability for plugins to customize image optimization in Markdown, and many more improvements and bug fixes.
