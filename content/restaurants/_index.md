@@ -1,6 +1,6 @@
 ---
-title: Restaurants
+title: Dining Out
+linktitle: Restautant
 view: date-title-summary
 url: /restaurants/
 ---
-👋 Click to where we are eating out!

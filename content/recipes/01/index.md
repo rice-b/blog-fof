@@ -10,6 +10,7 @@ authors:
 tags:
   - Recipe
   - Vegan
+  - Indian
 toc: true
 sidebar:
   open: true

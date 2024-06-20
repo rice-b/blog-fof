@@ -26,8 +26,7 @@ url: /recipes/
 
 {{% /steps %}}
 
-## Next:
-### Read about our restaurant blog posts.
+## Read about our restaurant blog posts:
 
 {{< cards >}}
   {{< card url="../restaurants" title="Restaurants blog" icon="calendar" >}}

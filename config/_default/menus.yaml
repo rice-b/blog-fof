@@ -5,7 +5,7 @@ main:
   - name: Home 🏡
     url: /
     weight: 10
-  - name: Recipes 🧑‍🍳
+  - name: Our Recipes 🧑‍🍳
     url: recipes/
     weight: 20
   - name: Restaurants 🍽️
