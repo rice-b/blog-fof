@@ -1,5 +1,5 @@
 ---
-title: Recipes
+title: Our Recipes
 description: "X"
 type: docs
 breadcrumbs: true
