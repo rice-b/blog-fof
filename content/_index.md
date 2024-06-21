@@ -15,11 +15,11 @@ sections:
       text: Cook and Dine with Us ❤️🍴🍹🎉
       primary_action:
         text: Our Recipes
-        url: /recipes/
+        url: ../recipes/
         icon: book-open
       secondary_action:
         text: Restaurant blogs
-        url: /restaurants/
+        url: ../restaurants/
         icon: food
 
 #      announcement:
