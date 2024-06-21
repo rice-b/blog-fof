@@ -4,4 +4,4 @@ linktitle: Restautant
 view: date-title-summary
 url: /restaurants/
 ---
-This is part food blogger and food diary
+Part food blog/ diary to share with friends
