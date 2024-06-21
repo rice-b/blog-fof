@@ -14,8 +14,8 @@ url: /restaurants/gymkhana
 ---
 
 We visited Gymkhana, an elegant Indian restaurant in Mayfair, London, inspired by the elite clubs of colonial India.
-First Impressions
 
+## First Impressions
 The restaurant, spread across two levels, features a chic interior with plush booths on the ground floor and a warm ambiance reminiscent of high society clubs. We were seated at a cozy booth, surrounded by rich decor and historical photographs, enhancing the dining experience.
 
 ## Drinks
